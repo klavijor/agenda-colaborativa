@@ -9,7 +9,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       manifest: {
         name: 'Agenda Colaborativa',
-        short_name: 'AgendaTO',
+        short_name: 'AgendaApp',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
