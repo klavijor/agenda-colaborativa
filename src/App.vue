@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Agenda Colaborativa</h1>
+    <h1>AgendApp</h1>
     <p>¡Esta es tu primera PWA hecha con Vue.js! 🎉</p>
     <button @click="handleClick">Haz clic aquí</button>
     <p v-if="clicked">¡Funciona! Ahora puedes instalarla en tu celular 🚀</p>
